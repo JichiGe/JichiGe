@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **on something cool!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JichiGe](https://github.com/JichiGe)
+- 👨‍💻 All of my projects are available at [https://github.com/JichiGe/Projects](https://github.com/JichiGe/Projects)
 
 - 📫 How to reach me **machoshore111@gmail.com**
 
